@@ -3134,3 +3134,12 @@ h6 {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+.profile-column{
+  display: flex;
+  flex-direction: column;
+}
+.profile-description{
+  display: flex;
+  -webkit-box-align: center;
+}
